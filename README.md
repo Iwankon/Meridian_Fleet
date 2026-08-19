@@ -56,8 +56,8 @@ An end-to-end analytics project built in **Power BI**, taking seven messy operat
 ├── README.md                     ← this case study
 ├── Meridian_Fleet.pbix           ← the Power BI report
 ├── 01_profiling.ipynb            ← pandas profiling of the raw source files
-├── data_quality_log.md           ← every defect found, and how it was handled
-├── specification.md              ← the one-page project brief
+├── data_quality.md           ← every defect found, and how it was handled
+├── Specification.md              ← the one-page project brief
 ├── requirements.txt              ← Python dependencies for the profiling notebook
 ├── data/                         ← the seven synthetic source files
 └── screenshots/                  ← the three report pages
