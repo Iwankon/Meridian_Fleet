@@ -24,14 +24,13 @@ An end-to-end analytics project built in **Power BI**, taking seven messy operat
 
 ## Key findings
 
-**1. Electric vehicles cost roughly half as much per km as petrol.**
-All-in running cost is about **€0.37/km for electric** versus **€0.70/km for petrol**, with hybrid and diesel in between. This is a direct input to future purchasing decisions.
+**1. Electric vehicles cost roughly half as much per km as petrol.** All-in running cost is about **€0.37/km for electric** versus **€0.70/km for petrol**, with hybrid and diesel in between. This is a direct input to future purchasing decisions.
 
-**2.The two worst-performing vehicles are a maintenance problem.**
-VH-017 and VH-032 have the fleet's highest running costs and lowest contribution after direct costs. The cause in both cases is maintenance — VH-017 alone carries an anomalous €4,196 bill versus a typical €1,300–3,000. These two are the clear candidates for review.
+**2. Demand is evenly spread across pickup zones.** Revenue by zone is remarkably flat — every zone falls in a tight €126K–€131K band. The practical takeaway for drivers: revenue is roughly the same wherever you pick up, so **positioning around a particular zone to catch fares offers little advantage.** Availability matters more than location.
 
-**3. The cheaper-looking booking platform is actually the more expensive one.**
-CityHail advertises a lower headline commission (18%) than RideGo (23%), but once its **fixed weekly fees** are included, its **effective** commission rate rises to **~30%** — above RideGo's 23%. RideGo also supplies **longer, higher-value trips** (8.0 km / €24 average vs CityHail's 4.6 km / €16). RideGo is the better partner on both cost and trip value.
+**3. The two worst-performing vehicles are a maintenance problem.** VH-017 and VH-032 have the fleet's highest running costs and lowest contribution after direct costs. The cause in both cases is maintenance — VH-017 alone carries an anomalous €4,196 bill versus a typical €1,300–3,000. These two are the clear candidates for review.
+
+**4. The cheaper-looking booking platform is actually the more expensive one.** CityHail advertises a lower headline commission (18%) than RideGo (23%), but once its **fixed weekly fees** are included, its **effective** commission rate rises to **~30%** — above RideGo's 23%. RideGo also supplies **longer, higher-value trips** (8.0 km / €24 average vs CityHail's 4.6 km / €16). RideGo is the better partner on both cost and trip value.
 
 ---
 
