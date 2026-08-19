@@ -27,13 +27,10 @@ An end-to-end analytics project built in **Power BI**, taking seven messy operat
 **1. Electric vehicles cost roughly half as much per km as petrol.**
 All-in running cost is about **€0.37/km for electric** versus **€0.70/km for petrol**, with hybrid and diesel in between. This is a direct input to future purchasing decisions.
 
-**2. VH-017 is the fleet's most expensive vehicle to run — a cost problem.**
-At **€1.01/km all-in**, VH-017 sits well above the fleet, driven almost entirely by an anomalous maintenance bill (**€4,196** vs a typical €1,300–3,000). It earns enough to avoid being the worst overall performer, so the right action is to **investigate and service it**, not retire it.
+**2.The two worst-performing vehicles are a maintenance problem.**
+VH-017 and VH-032 have the fleet's highest running costs and lowest contribution after direct costs. The cause in both cases is maintenance — VH-017 alone carries an anomalous €4,196 bill versus a typical €1,300–3,000. These two are the clear candidates for review.
 
-**3. VH-032 is the lowest contributor — but for the opposite reason.**
-VH-032 has the **lowest contribution after direct costs**, yet it is *not* especially costly to run. Its problem is **low revenue and low distance** — it is underused. The two weakest vehicles therefore need **different interventions**: service VH-017, but **reassign or retire VH-032**.
-
-**4. The cheaper-looking booking platform is actually the more expensive one.**
+**3. The cheaper-looking booking platform is actually the more expensive one.**
 CityHail advertises a lower headline commission (18%) than RideGo (23%), but once its **fixed weekly fees** are included, its **effective** commission rate rises to **~30%** — above RideGo's 23%. RideGo also supplies **longer, higher-value trips** (8.0 km / €24 average vs CityHail's 4.6 km / €16). RideGo is the better partner on both cost and trip value.
 
 ---
